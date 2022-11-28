@@ -1,0 +1,15 @@
+.input-field {
+  width: var(--div-width);
+  height: var(--input-height);
+  border: none;
+  margin: 50px auto;
+  border-radius: 10px;
+  box-shadow: var(--box-shadow);
+}
+
+.flex-container1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+}

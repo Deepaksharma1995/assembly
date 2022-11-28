@@ -1,0 +1,16 @@
+.list-container {
+  margin-top: 100px;
+  width: var(--div-width);
+  min-height: 20%;
+  box-shadow: var(--box-shadow);
+  border-radius: 10px;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.links-container {
+  margin: 10px;
+}

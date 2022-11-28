@@ -1,0 +1,13 @@
+.title-header {
+  font-size: 20px;
+  font-weight: 500;
+  font-stretch: expanded;
+  color: rgb(37, 37, 94);
+}
+
+.select-dropdown {
+  height: 30px;
+  border: none;
+  box-shadow: var(--box-shadow);
+  border-radius: 10px;
+}
